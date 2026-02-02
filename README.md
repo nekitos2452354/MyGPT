@@ -57,7 +57,6 @@ Windows
 ```bash
     pip install -r requirements.txt
 ```
-```bash
 4. Запуск 
 ```bash
     python main.py

@@ -1,4 +1,5 @@
 venv/
+data/apiKey.set
 __pycache__/
 *.pyc
 *.pyo

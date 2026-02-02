@@ -9,6 +9,21 @@
 - pyttsx3 (озвучка)
 - keyboard
 
+Структура проекта
+```bash
+MYGPT2/
+├─ src/
+│  ├─ APIReg.py
+│  ├─ GPTWindow.py
+│  ├─ miniGPTWin.py
+│  └─ Voice.py
+├─ data/
+│  └─ apiKey.example
+├─ main.py
+├─ requirements.txt
+├─ .gitignore
+└─ README.md
+
 ---
 
 ## Требования
@@ -45,17 +60,3 @@ Windows
 ```bash
     python main.py
 
-Структура проекта
-```bash
-MYGPT2/
-├─ src/
-│  ├─ APIReg.py
-│  ├─ GPTWindow.py
-│  ├─ miniGPTWin.py
-│  └─ Voice.py
-├─ data/
-│  └─ apiKey.example
-├─ main.py
-├─ requirements.txt
-├─ .gitignore
-└─ README.md

@@ -23,7 +23,7 @@ MYGPT2/
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## Требования
@@ -41,22 +41,24 @@ MYGPT2/
 ```bash
 git clone https://github.com/USERNAME/MyGPT2.git
 cd MyGPT2
-
+```
 2. Создать виртуальное окружение
 macOS / Linux
 ```bash
     python3 -m venv venv
     source venv/bin/activate
+```
 ```bash
 Windows
     python -m venv venv
     venv\Scripts\activate
-
+```
 3. Установить зависимости
 ```bash
     pip install -r requirements.txt
-
+```
+```bash
 4. Запуск 
 ```bash
     python main.py
-
+```
